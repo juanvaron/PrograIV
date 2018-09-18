@@ -1,2 +1,0 @@
-Numero ingresado: 7
-Numero ingresado: 4
