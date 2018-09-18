@@ -15,7 +15,7 @@ public class Punto1{
             File archivo = new File("archivo.txt");
             FileWriter fw = new FileWriter(archivo);
             BufferedWriter bw = new BufferedWriter(fw);
-            for(int i=1; i<3; i++){
+            for(int i=1; i<10; i++){
                 System.out.println("Introduce numero: ");
                 a = S.nextInt();
 
